@@ -20,16 +20,34 @@ h2{
 h3{
     font-family: Outfit;
 }
+
+
 p{
     font-family: IBM Plex Serif;
 }
+
+
 .topbar{
     background-color: #B0D2FF;
     padding: 1vh;
     text-align: center;
     margin-bottom: 10vh;
     border-bottom: 8px solid white;
+    position:sticky;
+    top:0;
+    z-index:999;
+    margin-bottom:8vh;
 }
+
+
 .content1{
-    background-color: white;
+    background-color: #D9E9FF;
+    min-height: 400vh;
+}
+
+
+.footer{
+    background-color: #FFEFD9;
+    min-height: 20vh;
+    margin-top: 10vh;
 }

@@ -1,2 +1,2 @@
 # tobi-the-turtle
-learn from the GOAT
+learn from the GOAT of the larp nation
