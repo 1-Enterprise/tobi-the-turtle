@@ -1,1 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body{
+    background-color: #4F719E;
+    text-align: center;
+}
+
+h1{
+    font-family: Outfit;
+}
+
+h2{
+
+}
+
+h3{
+    font-family: Outfit;
+}
+p{
+    font-family: IBM Plex Serif;
+}
+.topbar{
+    background-color: #B0D2FF;
+    padding: 1vh;
+    text-align: center;
+    margin-bottom: 10vh;
+    border-bottom: 8px solid white;
+}
+.content1{
+    background-color: white;
+}
